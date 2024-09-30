@@ -48,14 +48,14 @@
 1. FORK THIS REPO
 
 
-<a href='https://github.com/T-crone-B/ai-bot-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/TcronebHackx-MD/THE-AI-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 <a href="https://cautious-halibut-pjgjrvgv5wxrhrxqw-8000.app.github.dev/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 2. ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
 
-<a href='https://replit.com/@cartoonboyzfami/AI-BOT-MD1' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%201-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-yellow' width="400" height="50" alt="Deploy bot"/></a>
+<a href='https://pair-web-public.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%201-OUR%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-yellow' width="400" height="50" alt="Deploy bot"/></a>
 
 <hr>
 <hr>
