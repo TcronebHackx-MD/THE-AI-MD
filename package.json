@@ -1,12 +1,12 @@
 {
-  "name": "AI-MD V1.9",
+  "name": "AI-BOT-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name AI-MD V1.9",
-    "stop": "pm2 stop AI-MD V1.9",
-    "restart": "pm2 restart AI-MD V1.9"
+    "start": "pm2 start index.js --deep-monitoring --attach --name AI-BOT-MD",
+    "stop": "pm2 stop AI-BOT-MD",
+    "restart": "pm2 restart AI-BOT-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
