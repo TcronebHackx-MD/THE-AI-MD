@@ -1,6 +1,6 @@
 {
-  "name": "AI-MD V1.9",
-  "description": "Javascript WhatsApp bot made by AI-MD V1.9",
+  "name": "AI-BOT-MD",
+  "description": "Javascript WhatsApp bot made by AI-BOT-MD",
   "logo": "https://files.catbox.moe/70ssfa.jpg",
   "keywords": ["bot"],
   "success_url": "/",
