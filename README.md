@@ -21,7 +21,7 @@
 
     
 
-![forks](https://img.shields.io/github/forks/T-crone-B/ai-bot-md?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/TcronebHackx-MD/ai-bot-md?label=Forks&style=social)
 
 ![stars](https://img.shields.io/github/stars/T-crone-B/ai-bot-md?style=social)
 
